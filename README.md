@@ -58,7 +58,7 @@ npm run dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react2.git
+   git clone https://github.com/Samad-Ali-S/react2.git
    ```
 
 2. Navigate to the project directory:
@@ -141,7 +141,7 @@ Contributions are welcome! Feel free to:
 
 Your Name - [your@email.com](mailto:your@email.com)
 
-Project Link: [https://github.com/your-username/react2](https://github.com/your-username/react2)
+Project Link: [https://github.com/your-username/react2](https://github.com/Samad-Ali-S/react2.git).
 
 ## 📝 License
 
