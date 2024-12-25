@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { EXPERIENCES } from "../constants";
 
 const Experience = () => {
-    const containerVariants = {
+    const containerVariants = { 
         hidden: { opacity: 0, y: 50 },
         visible: { 
             opacity: 1,
