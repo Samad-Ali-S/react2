@@ -14,10 +14,10 @@ To run this repository locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/your-username/react2.git
 
 # 2. Navigate to project directory
-cd portfolio-website
+cd react2
 
 # 3. Install dependencies (REQUIRED)
 npm install
@@ -58,12 +58,12 @@ npm run dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/your-username/react2.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd react2
    ```
 
 3. Install dependencies (REQUIRED):
@@ -106,7 +106,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-portfolio-website/
+react2/
 ├── src/
 │   ├── components/
 │   ├── constants/
@@ -141,7 +141,7 @@ Contributions are welcome! Feel free to:
 
 Your Name - [your@email.com](mailto:your@email.com)
 
-Project Link: [https://github.com/your-username/portfolio-website](https://github.com/your-username/portfolio-website)
+Project Link: [https://github.com/your-username/react2](https://github.com/your-username/react2)
 
 ## 📝 License
 
